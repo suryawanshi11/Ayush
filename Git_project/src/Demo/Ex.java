@@ -9,5 +9,5 @@ public class Ex {
 		System.out.println("git project done");
 
 	}
-
+System.out.println("git project done");
 }
