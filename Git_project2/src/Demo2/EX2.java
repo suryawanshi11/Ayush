@@ -7,6 +7,8 @@ public class EX2 {
 
 		
 		System.out.println("#######");
+		
+		System.out.println("*********************");
 	}
 
 }
