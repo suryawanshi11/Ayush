@@ -22,6 +22,10 @@ public class Ex1 {
 	{
 		System.out.println("2nd method is done");
 	}
+	public void abc()
+	{
+		System.out.println("3rd method is completed");
+	}
 
 
 }
