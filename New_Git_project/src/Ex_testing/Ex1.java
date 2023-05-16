@@ -17,5 +17,11 @@ public class Ex1 {
 	{
 		System.out.println("dhsdvs");
 	}
+	
+	public void xyz()
+	{
+		System.out.println("2nd method is done");
+	}
+
 
 }
