@@ -11,6 +11,11 @@ public class Ex1 {
 		System.out.println("=========");
 		
 		System.out.println("====**********=====");
+		
+	}
+	public void m1()
+	{
+		System.out.println("dhsdvs");
 	}
 
 }
