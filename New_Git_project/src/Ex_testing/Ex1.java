@@ -9,6 +9,8 @@ public class Ex1 {
 		System.out.println("done");
 		
 		System.out.println("=========");
+		
+		System.out.println("====**********=====");
 	}
 
 }
